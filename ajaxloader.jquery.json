@@ -1,6 +1,6 @@
 {
-    "name": "AjaxLoader",
-    "title": "jQuery Ajax Loader",
+    "name": "jquery-ajaxloader",
+    "title": "jquery-ajaxloader",
     "description": "This is a jQuery plugin to show a loader on every ajax hit on the server with different themes.",
     "keywords": [
         "ajax",
