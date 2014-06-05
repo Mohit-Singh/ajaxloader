@@ -5,20 +5,24 @@
     "keywords": [
         "ajax",
         "loader",
-	"loading"
+        "loading"
     ],
     "version": "0.1.0",
     "author": {
-        "name": "Mohit K Singh",
+        "name": "Mohit K Singh"
     },
-    "maintainers": [{
-        "name": "Mohit K Singh",
-        "email": "mohit.singh2090@gmail.com",
-    }],
-    "licenses": [{
-        "type": "MIT",
-        "url": "https://github.com/Mohit-Singh/AjaxLoader/blob/v0.1.0/LICENSE"
-    }],
+    "maintainers": [
+        {
+            "name": "Mohit K Singh",
+            "email": "mohit.singh2090@gmail.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/Mohit-Singh/AjaxLoader/blob/v0.1.0/LICENSE"
+        }
+    ],
     "bugs": "https://github.com/Mohit-Singh/AjaxLoader/issues",
     "homepage": "https://github.com/Mohit-Singh/AjaxLoader",
     "docs": "https://github.com/Mohit-Singh/AjaxLoader/blob/master/README.md",
