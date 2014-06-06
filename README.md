@@ -26,7 +26,7 @@ ajaxLoader.init({
 		
 ```
 
-possible vale for the loader are 
+possible value for the loader are 
 
 ```
     'bar',
